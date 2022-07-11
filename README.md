@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @aviplot
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning Golang, Java Spring
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me my repo name @ gmail.com
